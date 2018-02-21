@@ -2,7 +2,7 @@
 
 ## ReactOS + Qubes OS
 
-ReactOS images can be found on SourceForge: https://www.redox-os.org/
+ReactOS images can be found on SourceForge: https://www.reactos.org/
 
 ReactOS offers six different download options:
 
